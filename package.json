@@ -1,0 +1,8 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/earlman/resume.git",
+  "author": "earlman <earl.mangulabnan@gmail.com>",
+  "license": "MIT"
+}
