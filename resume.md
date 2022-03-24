@@ -8,7 +8,7 @@ Self-taught fullstack designer & developer with real-world experience
 
 ## Introduction
 
-Earl is a well-rounded Vuejs developer looking to architect front-end systems. He's a junior-level frontend developer with in-depth knowledge of Vuejs and a wide breadth of knowledge encompassing build systems, content management, and UI/UX.
+Earl is a junior-level dev with in-depth knowledge of Vuejs and a wide breadth of knowledge encompassing build systems, content management, and UI/UX. He is looking to build a career architecting front-end systems.
 
 His experience includes:
 - $40,000 of revenue over 3 years
