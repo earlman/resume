@@ -27,7 +27,7 @@ His experience includes:
 - Helped serve 75+ regular users, brokers and clients of BDI Global
 - Created authentication system with Vue using Firebase
 
-### [Lee Law Offices](leelawltd.com)
+### [Lee Law Offices](leelawoffices-demo.foundations.design)
 *May 2020 - May 2021*
 - Designed & deployed a professional website using Gridsome for a startup labor & employment firm, based in San Francisco
 - Achieved 85+ Google Lighthouse scores, with a 97 accessibility score
