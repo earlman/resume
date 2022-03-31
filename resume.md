@@ -36,8 +36,8 @@ His experience includes:
 
 ### [Metal Law Group](mlg.foundations.design)
 *Feb 2019 - Apr 2020*
-* Redesigned & rebuilt existing website for a modern look and improved performance
-* Utilized old Wordpress site as a REST API backend to rebuild website as a static site
+- Redesigned & rebuilt existing website for a modern look and improved performance
+- Utilized old Wordpress site as a REST API backend to rebuild website as a static site
 
 ## Open-Source Contributions
 
