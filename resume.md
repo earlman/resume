@@ -19,8 +19,8 @@ His experience includes:
 
 ## Client Projects
 
-### [Cyber Admitted](cyberadmitted.com)
-*Aug 2019 - Mar 2022*
+### [Cyber Admitted](cyberadmitted-demo.earlman.me)
+*Aug 2019 - current*
 - Built a client portal for BDI Global, LLC, to support management of over $400,000 in monthly written insurance premiums
 - Planned and built integrations with Google Firebase, Airtable, Zapier, Cognitoforms, & Flipsnack
 - Completed over 500 hours of work for the company over the course of 3 years, including dashboards creation, online forms, and database infrastructure design
